@@ -7,7 +7,7 @@
   <remote  name="bbb"
            fetch="https://github.com/opersys/" />
 
-  <default revision="refs/tags/android-10.0.0_r2"
+  <default revision="refs/tags/android-14.0.0_r50"
            remote="aosp"
            sync-j="4" />
 
